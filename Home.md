@@ -1,5 +1,6 @@
-# welcome
+# welcome to team A8
 ## assignment 2
+### team details 
 |Sl.no|name|branch|address|hobbies|photo|
 |-----|----|------|-------|-------|-----|
 | 1.  |Gunjan s.m|chemical engineering|plot.no 293, 3rd cross BASAV colony, belagum-590010| gaming and traveling|![image](https://user-images.githubusercontent.com/120017674/206920532-9c509c22-fa70-4579-bce6-158b81ef668e.jpg)|
